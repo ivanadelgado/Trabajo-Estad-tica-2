@@ -20,7 +20,7 @@
 - **Rango**: 82 -94.
 
 ## Variable independiente 3: POBREZA
-- **Descripción**: Porcentaje de la poblaci´n que se encuentra en pobreza económica.
+- **Descripción**: Porcentaje de la población que se encuentra en pobreza económica.
 - **Tipo de dato**: Numérico continuo
 - **Valores permitidos**: Números decimales entre 0 y 100.
 - **Rango**: 6 - 20.
@@ -35,7 +35,7 @@
 - **Descripción**: Índice de Desarrollo Humano.
 - **Tipo de dato**: Numérico continuo.
 - **Valores permitidos**: Números decimales entre 0 y 1.
-- **Rango**: 0.86 - 0.95.
+- **Rango**: 0.86 - 0.95. Donde 1 significa mejor índice de desarrollo humano.
 
 ## Variable de control 3: Net domestic migration rate per 1,000 inhabitants
 - **Descripción**: Tasa de migración cada 1000 habitantes.
